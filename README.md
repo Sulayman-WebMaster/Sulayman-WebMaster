@@ -5,6 +5,20 @@
 <h3 align="center">
   My name is Sulayman, I'm a <span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">Web Developer</span>
 </h3>
+<h3 align="center">
+  <svg width="100%" height="60">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#ff7e5f;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#feb47b;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" fill="url(#gradient)" text-anchor="middle" dominant-baseline="middle" font-size="24">
+      My name is Sulayman, I'm a <tspan fill="url(#gradient)">Web Developer</tspan>
+    </text>
+  </svg>
+</h3>
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
