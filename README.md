@@ -1,6 +1,6 @@
 <h1 align="center">YOU ARE WELCOME TO MY GITHUB PROFILE</h1>
 
-<img src="Code Developer GIF by LauOne.gif">
+<img src="Code Developer GIF by LauOne.gif width="50px" height="50px">
 </h3>
 <h3 align="center">
   <svg width="100%" height="60">
