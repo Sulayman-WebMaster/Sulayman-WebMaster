@@ -1,9 +1,6 @@
 <h1 align="center">YOU ARE WELCOME TO MY GITHUB PROFILE</h1>
-<h3 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
-  My name is Sulayman, I'm a <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">Web Developer</span>
-</h3>
-<h3 align="center">
-  My name is Sulayman, I'm a <span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">Web Developer</span>
+
+<img src="Code Developer GIF by LauOne.gif">
 </h3>
 <h3 align="center">
   <svg width="100%" height="60">
