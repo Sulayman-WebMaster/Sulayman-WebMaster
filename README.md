@@ -25,6 +25,16 @@ I'm Sulayman Kobir, a frontend developer specializing in React.js.I focus on bui
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+
+## Currently Exploring
+
+- React Redux Toolkit for efficient state management
+- Next.js for server-side rendering and full-stack capabilities
+- PostgreSQL as a relational database solution
+- Prisma ORM for type-safe database access
+- TypeScript for scalable and maintainable code
+- Deployment and DevOps with platforms like Vercel and Render
+
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sulayman-WebMaster&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
