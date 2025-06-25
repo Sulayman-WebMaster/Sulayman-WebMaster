@@ -1,7 +1,7 @@
 <img src="/banner-image.png" alt="GitHub Banner" width="100%" />
 
 #  About Me:
-I'm Sulayman Kobir, a frontend developer specializing in React.js.  <br>I focus on building clean, responsive, and user-friendly web applications.<br><br>Skilled in React, Node.js, and MongoDB, with a growing interest in backend architecture and cloud deployment.  <br>Currently learning advanced backend development to become a well-rounded full stack developer.<br><br>Always open to collaboration, learning, and building impactful projects.
+I'm Sulayman Kobir, a frontend developer specializing in React.js.I focus on building clean, responsive, and user-friendly web applications.Skilled in React, Node.js, and MongoDB, with a growing interest in backend architecture and cloud deployment.Currently learning advanced backend development to become a well-rounded full stack developer.Always open to collaboration, learning, and building impactful projects.
 
 
 ## Socials:
